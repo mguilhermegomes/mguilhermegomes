@@ -2,7 +2,7 @@
 
 **`Estudante | Futuro Desenvolvedor Full Stack`**
 
-Me chamo Márcio Guilherme Araujo Gomes, tenho 16 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando o ensino médio com curso técnico em informática na EEEP Lúcia Helena Viana Ribeiro. Nas horas vagas, me dedico a cursos, formações e projetos na Alura, onde estou focado em aprimorar minhas habilidades para me tornar um Desenvolvedor Full Stack. Apaixonado por tecnologia desde os 10 anos, acredito que cada linha de código é uma nova oportunidade de aprendizado.
+Me chamo Márcio Guilherme, tenho 16 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando o ensino médio com curso técnico em informática na EEEP Lúcia Helena Viana Ribeiro. Nas horas vagas, me dedico a cursos, formações e projetos na Alura, onde estou focado em aprimorar minhas habilidades para me tornar um Desenvolvedor Full Stack. Apaixonado por tecnologia desde os 10 anos, acredito que cada linha de código é uma nova oportunidade de aprendizado.
 
 <p align="left">
     <a href="https://github.com/mguilhermegomes?tab=repositories&sort=stargazers">
