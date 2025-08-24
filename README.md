@@ -46,11 +46,11 @@ Me chamo Márcio Guilherme Araujo Gomes, tenho 16 anos e sou natural de Fortalez
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
-<img 
+<img
     align="left"
     width="40px"
     style="padding-right: 10px;"
-    src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png">
+    src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png"
 />
 
 <img
