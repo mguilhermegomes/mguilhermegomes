@@ -67,6 +67,21 @@ Me chamo Márcio Guilherme Araujo Gomes, tenho 16 anos e sou natural de Fortalez
     src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png"
 />
 
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+/>
+
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
+/>
+
 <br>
 <br>
 <br>
