@@ -85,5 +85,5 @@ Me chamo Márcio Guilherme Araujo Gomes, tenho 16 anos e sou natural de Fortalez
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguilhermegomes&theme=react&layout=compact&langs_count=3"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguilhermegomes&theme=react&layout=compact&langs_count=7"
 />
