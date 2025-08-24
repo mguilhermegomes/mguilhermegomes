@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👨🏻‍💻 Guilherme Gomes
 
-<!--
-**mguilhermegomes/mguilhermegomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante | Futuro Desenvolvedor Full Stack`**
 
-Here are some ideas to get you started:
+Me chamo Márcio Guilherme Araujo Gomes, tenho 16 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando o ensino médio com curso técnico em informática na EEEP Lúcia Helena Viana Ribeiro. Nas horas vagas, me dedico a cursos, formações e projetos na Alura, onde estou focado em aprimorar minhas habilidades para me tornar um Desenvolvedor Full Stack. Apaixonado por tecnologia desde os 10 anos, acredito que cada linha de código é uma nova oportunidade de aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/mguilhermegomes?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total stars" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/mguilhermegomes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+        />
+    </a>
+    <a href="https://github.com/mguilhermegomes?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/mguilhermegomes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+## 🤖 Ferramentas, Linguagens e Tecnologias
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png"
+/>
+
+<br>
+<br>
+<br>
+
+## 📊 Estatísticas
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=mguilhermegomes&show_icons=true&theme=react&include_all_commits=true"
+/>
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguilhermegomes&theme=react&layout=compact"
+/>
