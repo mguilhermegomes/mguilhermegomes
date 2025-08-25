@@ -16,7 +16,7 @@ Me chamo Márcio Guilherme, tenho 16 anos e sou natural de Fortaleza-CE. Atualme
         <img 
             alt="Followers" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mguilhermegomes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/mguilhermegomes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
