@@ -43,6 +43,13 @@ Me chamo Márcio Guilherme, tenho 16 anos e sou natural de Fortaleza-CE. Atualme
     align="left"
     width="40px"
     style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
 />
 
