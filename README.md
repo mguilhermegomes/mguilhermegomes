@@ -25,76 +25,92 @@ Me chamo Márcio Guilherme, tenho 16 anos e sou natural de Fortaleza-CE. Atualme
 
 ## 🤖 Ferramentas, Linguagens e Tecnologias
 
+<div style="display: flex; flex-wrap: wrap; gap: 4px; align-items: center;">
+
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    width="100px"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
 />
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    width="66px"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 />
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+    width="140px"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
 />
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+    width="85px"
+    src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
 />
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    width="111px"
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
 />
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png"
+    width="150px"
+    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
 />
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"
+    width="120px"
+    src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"
 />
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png"
+    width="100px"
+    src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
 />
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+    width="160px"
+    src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
 />
-
 
 <img
     align="left"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png"
+    width="120px"
+    src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"
 />
+
+<img
+    align="left"
+    width="70px"
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+/>
+
+<img
+    align="left"
+    width="111px"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
+
+<img
+    align="left"
+    width="160px"
+    src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+/>
+
+<img
+    align="left"
+    width="55px"
+    src="https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"
+/>
+</div>
 
 <br>
 <br>
