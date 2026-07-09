@@ -49,7 +49,7 @@ Sou apaixonado por tecnologia desde criança e gosto de transformar conhecimento
 
 ## ⭐ Projetos em Destaque
 
-🔹 [🎓 Sistema Acadêmico - API REST para gerenciamento de alunos, professores e cursos utilizando Express e Sequelize.](aindavousubiresserepositorio)
+🔹 [🎓 Sistema Acadêmico - API REST para gerenciamento de alunos, professores e cursos utilizando Express e Sequelize.](https://github.com/mguilhermegomes/api-rest-faculdade-sqlite)
 
 🔹 [📚 API REST Livraria - Sistema completo para cadastro de livros, autores e editoras utilizando MongoDB e Mongoose.](https://github.com/mguilhermegomes/api-rest-livraria-mongodb)
 
