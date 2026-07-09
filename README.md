@@ -97,8 +97,11 @@ Sou apaixonado por tecnologia desde criança e gosto de transformar conhecimento
     &nbsp;&nbsp;
     <img height="180em"
          src="https://mguilhermegomes-github-readme-stats.vercel.app/api/top-langs/?username=mguilhermegomes&theme=github_dark&layout=compact&langs_count=8&hide_border=false&border_color=58A6FF&border_radius=15"/>
-    <img
-    src="https://streak-stats.demolab.com?user=mguilhermegomes&theme=github-dark-blue&border_radius=15"/>
+</p>
+
+<p align="center">
+    <img height="180em"
+         src="https://streak-stats.demolab.com?user=mguilhermegomes&theme=github-dark-blue&hide_border=false&border=58A6FF&border_radius=15"/>
 </p>
 
 ---
