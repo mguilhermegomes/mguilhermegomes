@@ -1,10 +1,17 @@
-# 👨🏻‍💻 Guilherme Gomes
+<p align="center">
+    <img src="./assets/bannergithub.png" alt="Banner do perfil" width="1280">
+</p>
 
-**`Estudante | Futuro Desenvolvedor Full Stack`**
+---
 
-Me chamo Márcio Guilherme, tenho 16 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando o ensino médio com curso técnico em informática na EEEP Lúcia Helena Viana Ribeiro. Nas horas vagas, me dedico a cursos, formações e projetos na Alura, onde estou focado em aprimorar minhas habilidades para me tornar um Desenvolvedor Full Stack. Apaixonado por tecnologia desde os 10 anos, acredito que cada linha de código é uma nova oportunidade de aprendizado.
+# Guilherme Gomes
 
-<p align="left">
+🚀 **Desenvolvedor Full Stack em formação**  
+🎯 **Focado em JavaScript, Node.js e Bancos de Dados**
+
+> Aprendendo hoje para construir soluções melhores amanhã.
+
+<p align="center">
     <a href="https://github.com/mguilhermegomes?tab=repositories&sort=stargazers">
         <img 
             alt="Total stars" 
@@ -23,102 +30,89 @@ Me chamo Márcio Guilherme, tenho 16 anos e sou natural de Fortaleza-CE. Atualme
 
 ---
 
-## 🤖 Ferramentas, Linguagens e Tecnologias
+## Sobre mim
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; align-items: center;">
+Tenho 17 anos e sou estudante do Ensino Médio integrado ao curso Técnico em Informática. Atualmente estudo desenvolvimento Full Stack por meio de cursos, formações e projetos práticos na Alura.  
 
-<img
-    align="left"
-    width="100px"
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-/>
+Sou apaixonado por tecnologia desde criança e gosto de transformar conhecimento em aplicações reais, buscando sempre aprender novas ferramentas e boas práticas de desenvolvimento.
 
-<img
-    align="left"
-    width="66px"
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-/>
+---
 
-<img
-    align="left"
-    width="140px"
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-/>
+## 🚀 Atualmente
 
-<img
-    align="left"
-    width="85px"
-    src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-/>
+- 📚 Estudando **Node.js**, **Express** e **arquitetura de APIs REST**
+- 🗄️ Aprendendo **MongoDB**, **Mongoose** e **Sequelize**
+- 🚀 Desenvolvendo aplicações **Full Stack**
+- 🌱 Aprofundando conhecimentos em **JavaScript moderno**
 
-<img
-    align="left"
-    width="111px"
-    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
-/>
+---
 
-<img
-    align="left"
-    width="150px"
-    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-/>
+## ⭐ Projetos em Destaque
 
-<img
-    align="left"
-    width="120px"
-    src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"
-/>
+🔹 [🎓 Sistema Acadêmico - API REST para gerenciamento de alunos, professores e cursos utilizando Express e Sequelize.](aindavousubiresserepositorio)
 
-<img
-    align="left"
-    width="100px"
-    src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
-/>
+🔹 [📚 API REST Livraria - Sistema completo para cadastro de livros, autores e editoras utilizando MongoDB e Mongoose.](https://github.com/mguilhermegomes/api-rest-livraria-mongodb)
 
-<img
-    align="left"
-    width="160px"
-    src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
-/>
+🔹 [💭 Memoteca - CRUD Front-End completo para gerenciamento de pensamentos em um mural](https://github.com/mguilhermegomes/memoteca)
 
-<img
-    align="left"
-    width="120px"
-    src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"
-/>
+🔹 [☕ Serenatto Café - Landing Page desenvolvida com SCSS](https://github.com/mguilhermegomes/serenatto-cafe)
 
-<img
-    align="left"
-    width="70px"
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-/>
+---
 
-<img
-    align="left"
-    width="111px"
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-/>
+## 💻 Tecnologias
 
-<img
-    align="left"
-    width="160px"
-    src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
-/>
+### Front-end
 
-<img
-    align="left"
-    width="55px"
-    src="https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"
-/>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<br>
-<br>
-<br>
+### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Banco de Dados
+
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+---
 
 ## 📊 Estatísticas
 
-<div>
-    <img loading="lazy" height="180em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=mguilhermegomes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguilhermegomes&layout=compact&langs_count=7&theme=react"/>
-</div>
+<p align="center">
+    <img height="180em"
+         src="https://mguilhermegomes-github-readme-stats.vercel.app/api?username=mguilhermegomes&theme=github_dark&show_icons=true&hide_border=false&border_color=58A6FF&border_radius=15"/>
+    &nbsp;&nbsp;
+    <img height="180em"
+         src="https://mguilhermegomes-github-readme-stats.vercel.app/api/top-langs/?username=mguilhermegomes&theme=github_dark&layout=compact&langs_count=8&hide_border=false&border_color=58A6FF&border_radius=15"/>
+    <img
+    src="https://streak-stats.demolab.com?user=mguilhermegomes&theme=github-dark-blue&border_radius=15"/>
+</p>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mguilherme-gomes)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiigms_)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guiigomes0734@gmail.com)
+
+---
+
+**⭐ Obrigado por visitar meu perfil!**
+
+> Sempre aprendendo. Sempre construindo.
