@@ -118,5 +118,3 @@ Sou apaixonado por tecnologia desde criança e gosto de transformar conhecimento
 ---
 
 **⭐ Obrigado por visitar meu perfil!**
-
-> Sempre aprendendo. Sempre construindo.
