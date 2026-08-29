@@ -95,7 +95,7 @@ Sou apaixonado por tecnologia desde criança e gosto de transformar conhecimento
 
 <p align="center">
     <img height="180em"
-         src="https://mguilhermegomes-github-readme-stats.vercel.app/api?username=mguilhermegomes&theme=github_dark&show_icons=true&hide_border=false&border_color=58A6FF&border_radius=15"/>
+         src="https://mguilhermegomes-github-readme-stats.vercel.app/api?username=mguilhermegomes&theme=github_dark&show_icons=true&hide_border=false&border_color=58A6FF&border_radius=15&v=2"/>
     &nbsp;&nbsp;
     <img height="180em"
          src="https://mguilhermegomes-github-readme-stats.vercel.app/api/top-langs/?username=mguilhermegomes&theme=github_dark&layout=compact&langs_count=8&hide_border=false&border_color=58A6FF&border_radius=15"/>
@@ -103,7 +103,7 @@ Sou apaixonado por tecnologia desde criança e gosto de transformar conhecimento
 
 <p align="center">
     <img height="180em"
-         src="https://streak-stats.demolab.com?user=mguilhermegomes&theme=github-dark-blue&hide_border=false&border=58A6FF&border_radius=15"/>
+         src="https://streak-stats.demolab.com?user=mguilhermegomes&theme=github-dark-blue&hide_border=false&border=58A6FF&border_radius=16"/>
 </p>
 
 ---
