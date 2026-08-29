@@ -103,7 +103,7 @@ Sou apaixonado por tecnologia desde criança e gosto de transformar conhecimento
 
 <p align="center">
     <img height="180em"
-         src="https://streak-stats.demolab.com?user=mguilhermegomes&theme=github-dark-blue&hide_border=false&border=58A6FF&border_radius=16"/>
+         src="https://streak-stats.demolab.com?user=mguilhermegomes&theme=github-dark-blue&hide_border=false&border=58A6FF&border_radius=15&v=2"/>
 </p>
 
 ---
