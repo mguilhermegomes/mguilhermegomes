@@ -6,10 +6,9 @@
 
 # Guilherme Gomes
 
-🚀 **Desenvolvedor Full Stack em formação**  
-🎯 **Focado em JavaScript, Node.js e Bancos de Dados**
-
-> Aprendendo hoje para construir soluções melhores amanhã.
+🚀 Desenvolvedor Full Stack em formação  
+🎯 Focado em JavaScript, Node.js e Bancos de Dados  
+🧪 Estudando testes, segurança, Docker e boas práticas
 
 <p align="center">
     <a href="https://github.com/mguilhermegomes?tab=repositories&sort=stargazers">
@@ -40,10 +39,10 @@ Sou apaixonado por tecnologia desde criança e gosto de transformar conhecimento
 
 ## 🚀 Atualmente
 
-- 📚 Estudando **Node.js**, **Express** e **arquitetura de APIs REST**
-- 🗄️ Aprendendo **MongoDB**, **Mongoose** e **Sequelize**
-- 🚀 Desenvolvendo aplicações **Full Stack**
-- 🌱 Aprofundando conhecimentos em **JavaScript moderno**
+- 🧪 Testes: unitários, integração, E2E, TDD, Jest e Supertest
+- 🔐 Segurança: JWT, autenticação, autorização, Passport e OAuth 2.0
+- 🐳 Infraestrutura & DevOps: Docker, CI e automação de pipelines
+- 🌿 Boas práticas: Git, versionamento e desenvolvimento de software
 
 ---
 
